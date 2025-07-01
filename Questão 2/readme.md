@@ -1,4 +1,4 @@
-# Questão – Gerenciamento de Cadastro de Pessoas com Data de Aniversário em C++
+# Questão 2 – Gerenciamento de Cadastro de Pessoas com Data de Aniversário em C++
 
 Implemente um programa em C++ para gerenciar um cadastro de pessoas, onde cada pessoa possui os seguintes atributos: nome, dia do aniversário e mês do aniversário.
 
@@ -17,6 +17,8 @@ Implemente um programa em C++ para gerenciar um cadastro de pessoas, onde cada p
 - Implemente um menu de texto simples para interação com o usuário.
 - Trate entradas inválidas no menu para evitar erros durante a execução.
 
+---
+
 ## Requisitos Adicionais
 
 - O programa deve mostrar uma mensagem apropriada caso o arquivo não seja encontrado durante o carregamento.
@@ -24,3 +26,5 @@ Implemente um programa em C++ para gerenciar um cadastro de pessoas, onde cada p
 - O mês do aniversário deve ser armazenado como número (1 a 12), mas o programa deve disponibilizar um array com os nomes dos meses para possíveis usos futuros.
 - Use `getline` para leitura dos nomes, permitindo nomes com espaços.
 - Seja cuidadoso para limpar o buffer do `cin` entre as leituras para evitar problemas na entrada.
+
+---
